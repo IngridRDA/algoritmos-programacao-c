@@ -102,3 +102,9 @@ Curso de **Análise e Desenvolvimento de Sistemas**
 O relatório completo está disponível na pasta **docs**.
 
 ---
+
+## :phone: Contato
+
+<img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/linkedin-16x16.png?raw=true" /> Linkedin [https://www.linkedin.com/in/ingrid-rda/](https://www.linkedin.com/in/ingrid-rda/)
+
+:postbox: E-mail [ingridrda31@gmail.com](ingridrda31@gmail.com)
